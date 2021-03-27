@@ -5,6 +5,7 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 ## R
 
 * For useRs, the origin of everything is [CRAN](https://cran.r-project.org/).
+* Or at https://www.rstudio.com/...
 * [Shiny Developer Series](https://shinydevseries.com/) podcasts (and occasional live streams).
 * [Rocker](https://www.rocker-project.org/) provides docker images for R.
 * [rseek](https://rseek.org/) is the best way to search R-related content. Downside: it is a Google front-end. \
