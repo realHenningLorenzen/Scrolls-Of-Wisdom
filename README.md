@@ -8,6 +8,10 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 
 ## Linux
 
+* My top #2 linux distros (yes, this document *is* opinionated):
+  * [Ubuntu](https://ubuntu.com/)
+  * [Debian](https://www.debian.org/)
+
 ### News sites
 
 * [OMG! ubuntu!](https://www.omgubuntu.co.uk/)
