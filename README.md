@@ -46,7 +46,7 @@ No more from source `configure` and `make` installs.
 
 ## Git
 
-* GitExtensions - an awesome git client
+* [GitExtensions](https://gitextensions.github.io/) - an awesome git client
 * [Oh my GIT](https://ohmygit.org/) - a text adventure which teaches you git ([also on github](https://github.com/git-learning-game/oh-my-git)) 🎮
 
 ## Misc.
