@@ -4,6 +4,8 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 
 ## R
 
+* For useRs, the origin of everything is [CRAN](https://cran.r-project.org/).
+
 ## Linux
 
 ### News sites
