@@ -56,7 +56,8 @@ No more from source `configure` and `make` installs.
   * [Simple Tab Groups](https://addons.mozilla.org/de/firefox/addon/simple-tab-groups/)
   * [I don't care about cookies](https://addons.mozilla.org/de/firefox/addon/i-dont-care-about-cookies/)
   * [Firefox Multi-Account Containers](https://addons.mozilla.org/de/firefox/addon/multi-account-containers/)
-* [Greenshot](https://getgreenshot.org/)
+* [Greenshot](https://getgreenshot.org/) - sophisticated screen shots
+* [Double Commander](https://doublecmd.sourceforge.io/) - traditional file manager
 
 ## Misc.
 
