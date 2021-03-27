@@ -58,6 +58,7 @@ No more from source `configure` and `make` installs.
 * [Greenshot](https://getgreenshot.org/) - sophisticated screen shots
 * [Double Commander](https://doublecmd.sourceforge.io/) - traditional file manager
 * [7-Zip](https://www.7-zip.org/) - high compression ratio file archiver
+* [Aptitude](https://wiki.debian.org/Aptitude) - APT-based software management for Ubuntu and Debian linux
 
 ## Misc.
 
