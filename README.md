@@ -14,4 +14,6 @@ Topics are:
 
 ## Git
 
+* GitExtensions - an awesome git client
+
 ## Misc.
