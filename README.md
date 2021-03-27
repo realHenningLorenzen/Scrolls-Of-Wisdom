@@ -10,7 +10,24 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 * [Rocker](https://www.rocker-project.org/) provides docker images for R.
 * [rseek](https://rseek.org/) is the best way to search R-related content. Downside: it is a Google front-end. \
   [DuckDuckGo](https://duckduckgo.com/) offers the "bang" [`!rseek`](https://duckduckgo.com/bang?q=rseek)...
+* Microsoft (which acquired Revolutions in 2015) hosts
+  * [Revolutions Blog](https://blog.revolutionanalytics.com/) 
+  * [MRAN](https://mran.microsoft.com/), including
+    * [CRAN time machine](https://mran.microsoft.com/timemachine)
+    * [Microsoft R Open](https://mran.microsoft.com/download)
+* Read [The R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
 
+* [Awesome R](https://github.com/qinwf/awesome-R) list of packages and tools
+
+### My opinionated list of R packages
+
+* [renv](https://cran.r-project.org/package=renv) - freeze package versions for reproducibility on project-level.
+* [checkpoint](https://cran.r-project.org/package=checkpoint) - use MRAN's CRAN time machine to freeze package versions.
+* Want to play with SQL? [RSQLite](https://cran.r-project.org/package=RSQLite)!
+* [here](https://here.r-lib.org/) - robust handling of relative paths.
+* The famous [rmarkdown](https://cran.r-project.org/package=rmarkdown): embed 
+  R code in markdown syntax -> `.Rmd` and there you go (reports, documentation,
+  etc.)
 
 ### News
 
