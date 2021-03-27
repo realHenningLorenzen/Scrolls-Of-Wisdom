@@ -34,6 +34,7 @@ delete them).
     - [Microsoft R Open](https://mran.microsoft.com/download)
 
 - Read [The R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
+  to learn about R's gotchas. :nerd_face:
 
 - [Awesome R](https://github.com/qinwf/awesome-R) list of packages and tools
 
@@ -100,6 +101,10 @@ No more from source `configure` and `make` installs.
 - [GitExtensions](https://gitextensions.github.io/) - an awesome git client
 - [Oh my GIT](https://ohmygit.org/) - a text adventure which teaches you git
   ([also on github](https://github.com/git-learning-game/oh-my-git))
+
+### GitHub
+
+- [emojis.ninja](https://emojis.ninja/) for the emoji ninja :nerd_face:
 
 ## Tools
 
