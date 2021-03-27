@@ -5,6 +5,9 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 ## R
 
 * For useRs, the origin of everything is [CRAN](https://cran.r-project.org/).
+* [Eric Nantz'](https://github.com/rpodcast) [Shiny Developer Series](https://shinydevseries.com/) podcasts (and occasional live streams).
+
+
 
 ### News
 
