@@ -49,6 +49,15 @@ No more from source `configure` and `make` installs.
 * [GitExtensions](https://gitextensions.github.io/) - an awesome git client
 * [Oh my GIT](https://ohmygit.org/) - a text adventure which teaches you git ([also on github](https://github.com/git-learning-game/oh-my-git)) 🎮
 
+## Tools
+
+* [Firefox](https://www.mozilla.org/firefox/) - my preferred browser for over a decade... \
+  useful add-ons:
+  * [Simple Tab Groups](https://addons.mozilla.org/de/firefox/addon/simple-tab-groups/)
+  * [I don't care about cookies](https://addons.mozilla.org/de/firefox/addon/i-dont-care-about-cookies/)
+  * [Firefox Multi-Account Containers](https://addons.mozilla.org/de/firefox/addon/multi-account-containers/)
+* [Greenshot](https://getgreenshot.org/)
+
 ## Misc.
 
 * [/.org](https://slashdot.org/) - for historical reasons, used read it regularly in my early 20s
