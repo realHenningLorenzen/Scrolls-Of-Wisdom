@@ -40,6 +40,19 @@ delete them).
 
 ### My opinionated list of R packages
 
+- [tidyverse](https://www.tidyverse.org/) meta-package, notorious components are
+  - [magrittr](https://magrittr.tidyverse.org/) pipe operator `%>%` (I think I
+    could not live with it anymore :grin:)
+  - [dplyr](https://dplyr.tidyverse.org/) data transformations
+  - [tidyr](https://tidyr.tidyverse.org/) data cleaning and transformations
+  - [purrr](https://purrr.tidyverse.org/) functional programming
+  - [ggplot2](https://ggplot2.tidyverse.org/) graphs :chart:
+
+- [R infrastructure](https://github.com/r-lib)
+  - [rlang](https://rlang.r-lib.org/) programming on the language :nerd_face:
+  - much more...
+
+
 - [renv](https://cran.r-project.org/package=renv) - freeze package versions for
   reproducibility on project-level.
 
