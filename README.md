@@ -5,10 +5,13 @@ After collecting *hundreds* of browser tabs and bookmarks over the last years, I
 Topics are:
 * R
 * Linux
+* Git
 * Miscellaneous
 
 ## R
 
 ## Linux
+
+## Git
 
 ## Misc.
