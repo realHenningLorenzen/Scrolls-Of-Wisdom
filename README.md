@@ -12,7 +12,7 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 * [RWeekly.org](https://rweekly.org/live)
 * [R-Bloggers](https://www.r-bloggers.com/)
 
-💡 Somebody write an R package that aggregates these three news feeds into a single shiny app? 💡
+💡 Is there a shiny app that aggregates these three news feeds into a single stream? 💡
 
 ## Linux
 
