@@ -6,13 +6,21 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 
 * For useRs, the origin of everything is [CRAN](https://cran.r-project.org/).
 
+### News
+
+* [R posts you might have missed!](https://twitter.com/icymi_r)
+* [RWeekly.org](https://rweekly.org/live)
+* [R-Bloggers](https://www.r-bloggers.com/)
+
+💡 Somebody write an R package that aggregates these three news feeds into a single shiny app? 💡
+
 ## Linux
 
 * My top #2 linux distros (yes, this document *is* opinionated):
   * [Ubuntu](https://ubuntu.com/)
   * [Debian](https://www.debian.org/)
 
-### News sites
+### News
 
 * [OMG! ubuntu!](https://www.omgubuntu.co.uk/)
 * [DistroWatch](https://distrowatch.com/)
