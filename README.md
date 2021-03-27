@@ -43,7 +43,6 @@ No more from source `configure` and `make` installs.
 * [AppImage](https://appimage.org/)
 
 
-
 ## Git
 
 * [GitExtensions](https://gitextensions.github.io/) - an awesome git client
@@ -58,6 +57,7 @@ No more from source `configure` and `make` installs.
   * [Firefox Multi-Account Containers](https://addons.mozilla.org/de/firefox/addon/multi-account-containers/)
 * [Greenshot](https://getgreenshot.org/) - sophisticated screen shots
 * [Double Commander](https://doublecmd.sourceforge.io/) - traditional file manager
+* [7-Zip](https://www.7-zip.org/) - high compression ratio file archiver
 
 ## Misc.
 
