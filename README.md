@@ -33,6 +33,17 @@ After ~looting~ collecting wisdom from the internet in *hundreds* of browser tab
 * [OSnews](https://www.osnews.com/)
 * [heise online](https://www.heise.de/thema/Linux-und-Open-Source) - in German
 
+### Apps
+
+No more hassles with 'tarballs', RPM vs. DEB and unresolved dependencies.
+No more from source `configure` and `make` installs.
+
+* [FlatHub](https://flathub.org/)
+* [SnapCraft Store](https://snapcraft.io/store)
+* [AppImage](https://appimage.org/)
+
+
+
 ## Git
 
 * GitExtensions - an awesome git client
